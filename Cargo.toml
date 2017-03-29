@@ -1,0 +1,12 @@
+[package]
+name = "leanque-core"
+version = "0.0.1"
+
+description = "Communication primitives used by the rest of leanque stack."
+authors = ["The Muktakosh Project Developers"]
+readme = "README.md"
+
+repository = "https://github.com/muktakosh/leanque-core"
+license = "Unlicense/Apache-2.0"
+
+[dependencies]

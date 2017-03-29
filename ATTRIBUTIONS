@@ -1,0 +1,4 @@
+This document states the software used to build leanque-core.
+
+- "Cargo: The Rust package manager" under the MIT License :: https://crates.io
+- "The Rust Programming Language" (rustc) under the MIT License :: https://rust-lang.org
